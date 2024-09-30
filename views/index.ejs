@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>在线编辑表</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="scripts.js"></script>
+  <script>
+  </script>
+</head>
+<body>  
+  <div class="combobox" id="combobox">
+    <ul id="comboBoxOptions" class="hidden">
+      <% data.unuseiconlist.forEach((iconName, index) => { %>
+        <li class="icon-list-item" data-value="<%= iconName %>"><%- data.iconMap[iconName] %><span><%= iconName %></span></li>
+      <% }) %>
+      <% data.usediconlist.forEach((iconName, index) => { %>
+        <li class="icon-list-item used hidden" data-value="<%= iconName %>"><%- data.iconMap[iconName] %><span><%= iconName %></span></li>
+      <% }) %>
+      <li id="toggle-used-icons">显示剩余图标</li>
+    </ul>
+  </div>
+  <h1>在线编辑图标集</h1>
+  <div class="left-float"></div>
+    <form onsubmit="submitHandler(event)">
+      <button type="submit" id="submit-btn">保存修改</button>
+      <span id="tip" class="hidden">已保存</span>
+      <table id="data-table">
+        <tr>
+          <th>图标路径</th>
+          <th>预览（悬停查看原始图片）</th>
+          <th>新图标</th>
+          <th class="urls">项目位置</th>
+        </tr>
+        <% data.source.forEach((item, index) => { %>
+          <tr>
+            <td><%= item.uri %></td>
+            <td><div class="previewer">
+              <div class="small"><img src="<%= item.data %>" alt="<%= item.uri %>" /></div>
+              <div class="origin"><img src="<%= item.data %>"/></div>
+            </div></td>
+            <td class="new-icon-input" data-uri="<%= item.uri%>"><%-data.iconMap[data.oldNewMap[item.uri]["新图标"]]%><span class="value"><%= data.oldNewMap[item.uri]["新图标"]%></span>
+              <img class="clear-line" src="delete.svg" />
+            </td>
+            <td contenteditable="true" class="urls">
+              <% if (item.locations) {%>
+                <% item.locations.forEach((line, index) => { %>
+                  <p><%= line %></p>
+                <% }) %>
+              <% } else {%>
+              <% } %>
+            </td>
+          </tr>
+        <% }) %>
+      </table>
+    </form>
+  </div>
+  
+
+</body>
+</html>

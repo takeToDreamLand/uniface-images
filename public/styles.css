@@ -1,0 +1,113 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border-collapse: collapse;
+
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+th, td {
+  padding: 2px;
+  text-align: left;
+  word-wrap: break-word;
+  position: relative;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+.urls {
+  max-height: 4em;
+  max-width: 600px;
+  overflow-y: auto;
+}
+.small img {
+  max-height: 3em;
+  max-width: 5em;
+}
+.previewer {
+  position: relative;
+  display: inline-block;
+}
+.origin {
+  display: none;
+  z-index: 99;
+  justify-content: center;   /* 水平居中 */
+  align-items: center;       /* 垂直居中 */
+}
+.previewer:hover .origin {
+  display: block;
+}
+
+.previewer:hover .small {
+  display: none;
+}
+
+.combobox {
+  position: relative;
+  display: inline-block;
+}
+.new-icon-input {
+  width: 100px;
+}
+#newIconInput {
+  width: 200px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+#comboBoxOptions {
+  overflow-y: auto;
+  height: 500px;
+  position: fixed;
+  width: 20em;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: white;
+  box-shadow: 0 5px 5px rgba(0,0,0,0.1);
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  z-index: 1000; /* Make sure it appears above other content */
+}
+.hidden {
+  display: none;
+}
+#comboBoxOptions li {
+  padding: 10px;
+  cursor: pointer;
+}
+#comboBoxOptions li:hover {
+  background-color: #f0f0f0;
+}
+.icon {
+  margin-right: 8px;
+}
+#tip {
+  color: #FF0F0F;
+}
+#submit-btn {
+  width: 80px;
+  height: 2em;
+  border-radius: 5px;
+  margin: 0.5em;
+}
+.clear-line {
+  width: 28px;
+  height: 28px;
+  background-color: #00000000;
+  border: 0px solid #000;
+  position: absolute;
+  right: 10px;
+  opacity: 0;
+}
+.clear-line:hover {
+  opacity: 1;
+  transition: opacity 0.3s ease-in-out;
+}

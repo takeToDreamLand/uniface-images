@@ -1,0 +1,2727 @@
+{
+  "2_line.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "1_line.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "4_line.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "3_line.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "5_line.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "about_close.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\host\\ui\\src\\aboutdialog.cpp:92"
+  },
+  "activation.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:357 361"
+  },
+  "about_close_press.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\host\\ui\\src\\aboutdialog.cpp:93"
+  },
+  "about_logo.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "about_background.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\host\\ui\\src\\aboutdialog.cpp:18"
+  },
+  "alarmlog.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "工程树\\报警.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\UProjectTree.cpp:403"
+  },
+  "allselect.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:312\n\n\\hmi-trunk\\APP\\NEW_APP_now\\host\\ui\\src\\linkdeviceconfdialog.cpp:244"
+  },
+  "big-item (1).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "array.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "big-item (11).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\表格.png",
+    "项目位置": ""
+  },
+  "big-item (12).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\刻度.png",
+    "项目位置": ""
+  },
+  "big-item (10).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\文本.png",
+    "项目位置": ""
+  },
+  "big-item (13).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\图片.png",
+    "项目位置": ""
+  },
+  "big-item (14).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\位按钮.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:4/13"
+  },
+  "big-item (16).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\画面按钮.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:6/15"
+  },
+  "app.ico": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\include\\AppConfig.h:10\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\AppConfig.cpp:18\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\image.rc:1"
+  },
+  "big-item (17).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\功能按钮.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:16"
+  },
+  "big-item (19).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\步进按钮.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:17"
+  },
+  "big-item (18).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "big-item (15).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\字按钮.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:5/14"
+  },
+  "big-item (2).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\折线.png",
+    "项目位置": ""
+  },
+  "big-item (20).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\单选按钮.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:18"
+  },
+  "big-item (21).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "big-item (24).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\数据输入显示.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:8"
+  },
+  "big-item (22).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\滑动模拟开关.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:20"
+  },
+  "big-item (23).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\数据显示.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:7"
+  },
+  "big-item (25).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\ASCII显示.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:9"
+  },
+  "big-item (26).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\ASCII输入显示.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:10"
+  },
+  "big-item (27).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\下拉选择框.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:21"
+  },
+  "big-item (28).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\位指示灯.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:23"
+  },
+  "big-item (29).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\多态按钮.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:19"
+  },
+  "big-item (3).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\曲线圆弧.png",
+    "项目位置": ""
+  },
+  "big-item (30).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\多状态指示灯.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:24"
+  },
+  "big-item (31).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "big-item (32).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\时间显示.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:27"
+  },
+  "big-item (34).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\星期显示.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:29"
+  },
+  "big-item (33).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\日期显示.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:28"
+  },
+  "big-item (35).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "big-item (36).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\图片显示器.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:30"
+  },
+  "big-item (37).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\GIF显示器.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:31"
+  },
+  "big-item (38).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\动态圆.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:32"
+  },
+  "big-item (39).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\动态矩形.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:33"
+  },
+  "big-item (40).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\流动块.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:34"
+  },
+  "big-item (4).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\自由曲线.png",
+    "项目位置": ""
+  },
+  "big-item (41).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "big-item (42).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "big-item (43).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\柱状图.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:35"
+  },
+  "big-item (44).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\仪表.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:36"
+  },
+  "big-item (45).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "big-item (46).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\趋势图.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:56"
+  },
+  "big-item (47).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\XY趋势图.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:57"
+  },
+  "big-item (49).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\数据群组显示.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:58"
+  },
+  "big-item (48).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\历史趋势图.png",
+    "项目位置": ""
+  },
+  "big-item (50).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\历史数据显示器.png",
+    "项目位置": ""
+  },
+  "big-item (5).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\矩形.png",
+    "项目位置": ""
+  },
+  "big-item (51).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\报警控件.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:54"
+  },
+  "big-item (53).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "big-item (52).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\动态报警条.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:55"
+  },
+  "big-item (54).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "big-item (55).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "big-item (56).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "big-item (57).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "big-item (58).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "big-item (59).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\温度计.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:37"
+  },
+  "big-item (6).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\圆角矩形.png",
+    "项目位置": ""
+  },
+  "big-item (60).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "big-item (61).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "big-item (62).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "big-item (63).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "big-item (64).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "big-item (66).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "big-item (67).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "big-item (69).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "big-item (65).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "big-item (68).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "big-item (70).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "big-item (7).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\圆.png",
+    "项目位置": ""
+  },
+  "big-item (71).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "big-item (72).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "big-item (73).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "big-item (74).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "big-item (75).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "big-item (77).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "big-item (76).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "big-item (79).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "big-item (78).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "big-item (8).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\多边形.png",
+    "项目位置": ""
+  },
+  "big-item (80).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\历史数据显示器.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:60"
+  },
+  "big-item (81).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\历史趋势图.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:61"
+  },
+  "big-item (82).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\用户登录.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:64"
+  },
+  "big-item (83).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\显示用户.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:65"
+  },
+  "big-item (85).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\删除用户.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:67"
+  },
+  "big-item (84).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\增加用户.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:66"
+  },
+  "big-item (86).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\修改密码.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:68"
+  },
+  "big-item (88).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\期限解锁.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:70"
+  },
+  "big-item (87).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\修改等级.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:69"
+  },
+  "big-item (89).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\二维码显示.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:38"
+  },
+  "big-item (9).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\扇形.png",
+    "项目位置": ""
+  },
+  "big-item (91).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "big-item (92).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "big-item (90).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\扩展流动块.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:39"
+  },
+  "big-item (93).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\功能按钮.png",
+    "项目位置": ""
+  },
+  "big-item (94).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "big-item (95).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "big-item (96).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "big-item (99).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\操作日志.png",
+    "项目位置": ""
+  },
+  "big-item (98).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "big-item (97).png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组件模块\\管道控制.png",
+    "项目位置": ""
+  },
+  "bottomali-1.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\mainwindow.cpp:2348"
+  },
+  "bottomali.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:768\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:910\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\mainwindow.cpp:2362"
+  },
+  "brushstyle0.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "brushstyle10.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "brushstyle11.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "brushstyle1.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "brushstyle12.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "brushstyle13.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "brushstyle14.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "brushstyle15.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "brushstyle17.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "brushstyle16.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "brushstyle18.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "brushstyle19.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "brushstyle2.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "brushstyle20.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "brushstyle21.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "brushstyle22.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "brushstyle23.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "brushstyle24.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "brushstyle4.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "brushstyle25.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "brushstyle3.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "brushstyle5.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "brushstyle6.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "brushstyle8.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "brushstyle7.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "clock.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\UProjectTree.cpp:378"
+  },
+  "brushstyle9.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "close.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:221\n\n\\hmi-trunk\\APP\\NEW_APP_now\\host\\ui\\src\\aboutdialog.cpp:92"
+  },
+  "compile.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:445"
+  },
+  "communicationsetting.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "comp_uncomp.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:502"
+  },
+  "copy.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:289\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:379\n\n\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\actionLadderTool.cpp:207\n\n\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\programTableView.cpp:118"
+  },
+  "curing.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:353"
+  },
+  "cut.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:283\n\n\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\actionLadderTool.cpp:217\n\n\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\programTableView.cpp:117"
+  },
+  "dataTransmission.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "工程树\\数据传输.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\UProjectTree.cpp:415"
+  },
+  "dataRetention.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "工程树\\断电保护.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\UProjectTree.cpp:421"
+  },
+  "del.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:306\n\n\\hmi-trunk\\APP\\NEW_APP_now\\host\\ui\\src\\linkdeviceconfdialog.cpp:283"
+  },
+  "delscene.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:982\n\n\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\actionLadderTool.cpp:231"
+  },
+  "default_qrencode.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\include\\AppConfig.h:14\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\AppConfig.cpp:86"
+  },
+  "download.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:463"
+  },
+  "duplicate.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:295"
+  },
+  "down_arrow.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\qss\\blue.qss:58\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\qss\\WordOffice.qss:251\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\qss\\WordOffice.qss:299"
+  },
+  "exit.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:238"
+  },
+  "fileprotection.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "工程树\\文件保护.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\UProjectTree.cpp:384"
+  },
+  "gallery.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "gallery_normal.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\host\\ui\\src\\UGalleryDialog.cpp:62 70 79 88 97"
+  },
+  "deviceConnectLink.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\host\\ui\\src\\linkdeviceconfdialog.cpp:131"
+  },
+  "gallery_pressed.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\host\\ui\\src\\UGalleryDialog.cpp:64 72 81 90 99"
+  },
+  "gallery_background.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\host\\ui\\src\\UGalleryDialog.cpp:230"
+  },
+  "grid.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:925"
+  },
+  "gallery_select.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\host\\ui\\src\\UGalleryDialog.cpp:63 71 80 89 98"
+  },
+  "group.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:331/337\n\n\\hmi-trunk\\APP\\NEW_APP_now\\host\\PropertyDialogs\\src\\qcustomplot.cpp:2946/23085/23512"
+  },
+  "heightsame-1.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\mainwindow.cpp:2354"
+  },
+  "heightsame.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:808\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:1117\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\mainwindow.cpp:2368"
+  },
+  "historydata.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "工程树\\历史数据.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\UProjectTree.cpp:409"
+  },
+  "hmiprotection.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "工程树\\期限保护.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\UProjectTree.cpp:390"
+  },
+  "hmisetting.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "工程树\\参数设置.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\UProjectTree.cpp:366"
+  },
+  "horcenter-1.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\mainwindow.cpp:2352"
+  },
+  "horcenter.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:788\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:1002\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\mainwindow.cpp:2366"
+  },
+  "horsame.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:793\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:1071\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\mainwindow.cpp:2381"
+  },
+  "horsame-1.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\mainwindow.cpp:2375"
+  },
+  "instruction_delete_row.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\actionLadderTool.cpp:244\n\n\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\programTableView.cpp:119"
+  },
+  "instruction_address_relevance_icon.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\actionLadderTool.cpp:222"
+  },
+  "instruction_delete.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\actionLadderTool.cpp:202"
+  },
+  "instruction_fall_small.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\actionLadderTool.cpp:162\n\n\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\editInsDlg.cpp:42"
+  },
+  "instruction_fall_big.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\fall.cpp:6"
+  },
+  "instruction_left_line_23.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\tableItemDelegate.cpp:59"
+  },
+  "instruction_h_line_small.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\actionLadderTool.cpp:192"
+  },
+  "instruction_left_line_41.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\tableItemDelegate.cpp:54"
+  },
+  "instruction_insert_row.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\actionLadderTool.cpp:240\n\n\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\programTableView.cpp:120"
+  },
+  "instruction_line_big.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\line.cpp:5"
+  },
+  "instruction_normal_close_big.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\normalClose.cpp:7"
+  },
+  "instruction_normal_open_big.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\normalOpen.cpp:7"
+  },
+  "instruction_normal_close_small.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\actionLadderTool.cpp:152\n\n\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\editInsDlg.cpp:40"
+  },
+  "initpro.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "instruction_normal_open_small.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\actionLadderTool.cpp:147\n\n\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\editInsDlg.cpp:39"
+  },
+  "instruction_output_small.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\actionLadderTool.cpp:177\n\n\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\editInsDlg.cpp:45"
+  },
+  "instruction_output_big.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\outPut.cpp:6"
+  },
+  "instruction_recombination_left_big.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\compareDWord.cpp:6\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\compareFloat.cpp:7\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\compareWord.cpp:7\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\cycleShiftLeftDWord.cpp:7\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\cycleShiftLeftWord.cpp:7\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\cycleShiftRightDWord.cpp:7\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\cycleShiftRightWord.cpp:7\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\incCounterOutPut.cpp:6\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\logicDWord.cpp:6\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\logicWord.cpp:6\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\mathDWord.cpp:6\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\mathFloat.cpp:10\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\mathFloatEX.cpp:7\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\mathWord.cpp:8\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\mov.cpp:7\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\movDWord.cpp:7\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\shiftLeftDWord.cpp:7\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\shiftLeftWord.cpp:7\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\shiftRightDWord.cpp:7\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\shiftRightWord.cpp:7\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\swapDWord.cpp:7\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\swapWord.cpp:7\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\timerOutPut.cpp:8\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\transitionBCD.cpp:6\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\transitionFLOAT.cpp:7\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\transitionINT.cpp:6\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\transitionLONG.cpp:6"
+  },
+  "instruction_recombination_right_big.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\compareDWord.cpp:7\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\compareFloat.cpp:8\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\compareWord.cpp:8\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\cycleShiftLeftDWord.cpp:8\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\cycleShiftLeftWord.cpp:8\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\cycleShiftRightDWord.cpp:8\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\cycleShiftRightWord.cpp:8\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\incCounterOutPut.cpp:7\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\logicDWord.cpp:7\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\logicWord.cpp:7\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\mathDWord.cpp:7\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\mathFloat.cpp:11\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\mathFloatEX.cpp:8\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\mathWord.cpp:9\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\mov.cpp:8\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\movDWord.cpp:8\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\shiftLeftDWord.cpp:8\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\shiftLeftWord.cpp:8\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\shiftRightDWord.cpp:8\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\shiftRightWord.cpp:8\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\swapDWord.cpp:8\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\swapWord.cpp:8\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\timerOutPut.cpp:8\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\transitionBCD.cpp:6\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\transitionFLOAT.cpp:7\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\transitionINT.cpp:6\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\transitionLONG.cpp:6"
+  },
+  "instruction_pulse_small.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\actionLadderTool.cpp:157\n\n\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\editInsDlg.cpp:41"
+  },
+  "instruction_pulse_big.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\pulse.cpp:6"
+  },
+  "instruction_reset_big.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\reset.cpp:6"
+  },
+  "instruction_reset_small.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\actionLadderTool.cpp:172\n\n\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\editInsDlg.cpp:44"
+  },
+  "instruction_right_line_31.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\tableItemDelegate.cpp:88"
+  },
+  "instruction_right_line_62.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\tableItemDelegate.cpp:45"
+  },
+  "instruction_recombination_small.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\actionLadderTool.cpp:182\n\n\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\editInsDlg.cpp:33"
+  },
+  "instruction_set_small.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\actionLadderTool.cpp:167\n\n\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\editInsDlg.cpp:43"
+  },
+  "instruction_v_line_remove_small.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\actionLadderTool.cpp:197"
+  },
+  "instruction_set_big.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\shared\\instructions\\src\\set.cpp:6"
+  },
+  "internetupload.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:507"
+  },
+  "instruction_v_line_small.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\actionLadderTool.cpp:187"
+  },
+  "invalid.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\host\\ProjectDataCenter\\src\\Project.cpp:897\n\n\\hmi-trunk\\APP\\NEW_APP_now\\host\\ui\\src\\USceneParamterDialog.cpp:1209/1388/1885\n\n\\hmi-trunk\\APP\\NEW_APP_now\\shared\\PresetItemClass\\src\\HMIBaseItem.cpp:470"
+  },
+  "invertselect.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:318"
+  },
+  "item1.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:42"
+  },
+  "item10.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:11"
+  },
+  "item11.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:51"
+  },
+  "iot.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\UProjectTree.cpp:518"
+  },
+  "item12.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:52"
+  },
+  "item13.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:26"
+  },
+  "item15.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item14.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item16.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item17.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item18.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item2.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:43"
+  },
+  "item20.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item19.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item22.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item21.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item23.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item25.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item26.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item24.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item27.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item28.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item29.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item3.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:44"
+  },
+  "item31.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item30.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item34.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item32.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item33.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item35.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item36.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item36-1.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item37.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item37-1.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item38.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item39.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item40.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item4.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:45"
+  },
+  "item41.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item42.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item43.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item44.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item45.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item47.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item46.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item5.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:46"
+  },
+  "item49.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item48.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item50.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item51.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item52.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item54.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item53.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item56.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item55.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item58.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item6.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:47"
+  },
+  "item57.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item60.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item59.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item62.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item64.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item61.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item63.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item65.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item66.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item67.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item68.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item69.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item7.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:48"
+  },
+  "item70.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item71.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item73.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item72.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item74.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item76.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item75.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item77.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item78.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item79.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item8.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:49"
+  },
+  "item80.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item82.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item81.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item83.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item84.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item85.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item87.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item86.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item88.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item89.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item9.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:50"
+  },
+  "item92.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item91.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item90.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item93.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item94.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item95.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "item98.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:59"
+  },
+  "item99.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:62"
+  },
+  "item97.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\VersionPackage\\HMI\\component.xml:40"
+  },
+  "item96.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "laddertreewidget_allinstruction.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\ULadderEditDialog.cpp:182"
+  },
+  "keyboardset.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:400"
+  },
+  "laddertreewidget_program.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\ULadderEditDialog.cpp:144"
+  },
+  "laddertreewidget_ins.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\ULadderEditDialog.cpp:194"
+  },
+  "ladder.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "工程树\\梯形图.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\UProjectTree.cpp:461/510"
+  },
+  "laddertreewidget_subins.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\ULadderEditDialog.cpp:207"
+  },
+  "ladder_address_map.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "工程树\\地址映射.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\UProjectTree.cpp:479"
+  },
+  "ladder_edit.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "工程树\\梯形图编辑.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\UProjectTree.cpp:473"
+  },
+  "ladder_import.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\actionLadderTool.cpp:227"
+  },
+  "language.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:427"
+  },
+  "languagesetting.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "工程树\\语言设置.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\UProjectTree.cpp:396"
+  },
+  "lastlayer.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:895\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:1269"
+  },
+  "ladder_export.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\actionLadderTool.cpp:236"
+  },
+  "leftali-1.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\mainwindow.cpp:2349"
+  },
+  "lastscene.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:987"
+  },
+  "line1.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "leftali.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:773\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\mainwindow.cpp:2363\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:956"
+  },
+  "line2.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "line3.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "lineStyle0.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "line4.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "line5.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "lineStyle1.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "lineStyle4.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "lineStyle2.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "lineStyle3.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "lineStyle5.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "link.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "工程树\\通讯.png",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\UProjectTree.cpp:348\n\n\\hmi-trunk\\APP\\NEW_APP_now\\host\\ui\\src\\linkdeviceconfdialog.cpp:131"
+  },
+  "movebottom.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "lowermost.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:900\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:1338"
+  },
+  "movelast.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "movenext.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "movetop.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "lock.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:342/347\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\UProjectTree.cpp:378"
+  },
+  "network.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "工程树\\网关设置.png",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:496\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\UProjectTree.cpp:441"
+  },
+  "new.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:209"
+  },
+  "newscene.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:972/1001"
+  },
+  "nextlayer.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:905\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:1315"
+  },
+  "nextscene.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:992"
+  },
+  "normal.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\host\\ui\\src\\UGalleryDialog.cpp:62 70 79 88 97"
+  },
+  "offmol.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:451"
+  },
+  "onmol.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:457"
+  },
+  "open.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:215"
+  },
+  "operationlog.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "paste.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:301\n\n\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\actionLadderTool.cpp:212\n\n\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\programTableView.cpp:116"
+  },
+  "rightali-1.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\mainwindow.cpp:2350"
+  },
+  "recipeManager.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "工程树\\配方管理.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\UProjectTree.cpp:435"
+  },
+  "pressed.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\host\\ui\\src\\UGalleryDialog.cpp:64 72 81 90 99"
+  },
+  "redo.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:276\n\n\\hmi-trunk\\APP\\NEW_APP_now\\host\\ui\\src\\linkdeviceconfdialog.cpp:256"
+  },
+  "rightali.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:778\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:993\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\mainwindow.cpp:2364"
+  },
+  "rotationdown.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:862\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:1200"
+  },
+  "rotationleft.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:866\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:1223"
+  },
+  "rotationup.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:858\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:1177"
+  },
+  "rotationright.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:870\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:1246"
+  },
+  "save.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "工程树\\用户密码.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:227"
+  },
+  "screenset.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:394"
+  },
+  "search.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:324\n\n\\hmi-trunk\\APP\\NEW_APP_now\\host\\ui\\src\\real_data_cfg.cpp:54"
+  },
+  "saveas.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:232"
+  },
+  "select.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:318\n\n\\hmi-trunk\\APP\\NEW_APP_now\\host\\ui\\src\\linkdeviceconfdialog.cpp:244\n\n\\hmi-trunk\\APP\\NEW_APP_now\\host\\ui\\src\\UGalleryDialog.cpp:63/71/80/89/98\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:1754"
+  },
+  "scene.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "工程树\\画面.png",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:972/977/982/987/992/1001\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\UProjectTree.cpp:491\n\n\\hmi-trunk\\APP\\NEW_APP_now\\host\\Ladder\\src\\actionLadderTool.cpp:231"
+  },
+  "service.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:490"
+  },
+  "setscene.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:977"
+  },
+  "setting.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "工程树\\设置.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\UProjectTree.cpp:354/366/396"
+  },
+  "sizesame.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:813\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\mainwindow.cpp:2396\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:1140"
+  },
+  "sizesame-1.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\mainwindow.cpp:2355"
+  },
+  "start_logo.jpg": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\UGraphicsWidget.cpp:38"
+  },
+  "simulate.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "template.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "工程树\\模版.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\UProjectTree.cpp:503"
+  },
+  "topali-1.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\mainwindow.cpp:2347"
+  },
+  "simulate_v.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "topali.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:763/844\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\mainwindow.cpp:2361\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:979"
+  },
+  "udiskupgrade.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:512"
+  },
+  "undo.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:269\n\n\\hmi-trunk\\APP\\NEW_APP_now\\host\\ui\\src\\linkdeviceconfdialog.cpp:235/250"
+  },
+  "topmost.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:890\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:1929"
+  },
+  "ungroup.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:337"
+  },
+  "upload.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:471/507"
+  },
+  "unlock.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:347"
+  },
+  "up_arrow.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\qss\\WordOffice.qss:307"
+  },
+  "userpassword.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "工程树\\用户密码.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\UProjectTree.cpp:372"
+  },
+  "vercenter-1.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\mainwindow.cpp:2351"
+  },
+  "vercenter.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:783\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\mainwindow.cpp:2365\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:1025"
+  },
+  "versame-1.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\mainwindow.cpp:2376"
+  },
+  "versame.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:798\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\mainwindow.cpp:2382\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:1048"
+  },
+  "voice.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\UProjectTree.cpp:454"
+  },
+  "widthsame-1.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\mainwindow.cpp:2353"
+  },
+  "window.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "工程树\\窗口.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\UProjectTree.cpp:497"
+  },
+  "widthsame.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:803/851\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\mainwindow.cpp:2367\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:1094"
+  },
+  "wizard1.gif": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "wizard2.gif": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\AppConfig.cpp:96"
+  },
+  "wizard1.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "wizard2.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "wizard3.gif": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "wizard3.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "z1.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:1029\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:689"
+  },
+  "z3.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:1025\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:712"
+  },
+  "z2.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:1031\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:735"
+  },
+  "wizard4.gif": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "z4.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:1033\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:850"
+  },
+  "z6.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:1035\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:827"
+  },
+  "z5.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:1027\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:781"
+  },
+  "z7.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:1041\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:873"
+  },
+  "z8.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:1039\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:758"
+  },
+  "z9.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:1037\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:804"
+  },
+  "zoomfit.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:940/961"
+  },
+  "zoomin.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:930"
+  },
+  "zoomout.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:935"
+  },
+  "Edit\\duplicateCopy.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "多重复制.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:379"
+  },
+  "Edit\\icons8-copy-50.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "复制.png",
+    "项目位置": ""
+  },
+  "Edit\\icons8-activate-100.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "激活.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:1558"
+  },
+  "Edit\\icons8-broken-link-96.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "取消组合.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:1679"
+  },
+  "Edit\\icons8-copy-100.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "复制.png",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:402\n\n\\hmi-trunk\\APP\\NEW_APP_now\\host\\PrjDialog\\MacroEditor\\MacroEditor.ui:515"
+  },
+  "Edit\\icons8-cut-100.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "剪切.png",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:425/2368\n\n\\hmi-trunk\\APP\\NEW_APP_now\\host\\PrjDialog\\MacroEditor\\MacroEditor.ui:545"
+  },
+  "Edit\\icons8-cut-50.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "剪切.png",
+    "项目位置": ""
+  },
+  "Edit\\icons8-delete-file-100.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "删除.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:1725"
+  },
+  "Edit\\icons8-delete-file-50.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "删除.png",
+    "项目位置": ""
+  },
+  "Edit\\icons8-ice-96.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "固化.png",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\shared\\PresetItemClass\\include\\PresetItemFunction.h:189\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:1616"
+  },
+  "Edit\\icons8-group-100.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组合.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:1645"
+  },
+  "Edit\\icons8-group-50.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "组合.png",
+    "项目位置": ""
+  },
+  "Edit\\icons8-invention-50.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "Edit\\icons8-invert-selection-100.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "Edit\\icons8-lock-100-2.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "锁定.png",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:1529\n\n\\hmi-trunk\\APP\\NEW_APP_now\\host\\PrjDialog\\MacroEditor\\MacroEditor.ui:590"
+  },
+  "Edit\\icons8-link-96.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "Edit\\icons8-lock-50-2.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\shared\\PresetItemClass\\include\\PresetItemFunction.h:184"
+  },
+  "Edit\\icons8-invention-100.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "Edit\\icons8-lock-50.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "锁定.png",
+    "项目位置": ""
+  },
+  "Edit\\icons8-lock-100.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "Edit\\icons8-paste-100.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "黏贴.png",
+    "项目位置": ""
+  },
+  "Edit\\icons8-search-120.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "搜索.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:1812"
+  },
+  "Edit\\icons8-search-60.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "搜索.png",
+    "项目位置": ""
+  },
+  "Edit\\icons8-paste-50.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "黏贴.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\host\\PrjDialog\\MacroEditor\\MacroEditor.ui:530"
+  },
+  "Edit\\icons8-select-all-100.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "Edit\\icons8-select-all-50.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "Edit\\icons8-unlock-50.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "取消锁定.png",
+    "项目位置": ""
+  },
+  "Edit\\icons8-unlock-100.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "取消锁定.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:1587"
+  },
+  "Edit\\revertSelect.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "反选.png",
+    "项目位置": ""
+  },
+  "Edit\\selectAll.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "全选.png",
+    "项目位置": ""
+  },
+  "File\\closeFile.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "File\\icons8-close-window-64.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "File\\icons8-documents-folder-100.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "File\\icons8-documents-folder-50.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "File\\icons8-door-100.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "File\\icons8-door-50.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "File\\icons8-exit-96.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:177"
+  },
+  "File\\icons8-new-file-100.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "File\\icons8-opened-folder-100.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "File\\icons8-new-file-50.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "File\\icons8-opened-folder-50.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "File\\icons8-quit-100.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "File\\icons8-quit-50.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "File\\icons8-save-file-100.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:124\n\n\\hmi-trunk\\APP\\NEW_APP_now\\host\\PrjDialog\\MacroEditor\\MacroEditor.ui:485"
+  },
+  "File\\icons8-save-file-50.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "File\\icons8-save-as-94.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:147"
+  },
+  "File\\newFile.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:55"
+  },
+  "File\\icons8-paste-94.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:292"
+  },
+  "File\\openFile.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:78"
+  },
+  "File\\Recently.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:219"
+  },
+  "Help\\icons8-about-50.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "关于.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:2648"
+  },
+  "Help\\icons8-help-100.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "帮助.png",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.cpp:198\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:2628"
+  },
+  "Setting\\icons8-china-100.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "Help\\icons8-upgrade-50.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "在线更新.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:2668"
+  },
+  "Help\\icons8-help-50.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "帮助.png",
+    "项目位置": ""
+  },
+  "Setting\\icons8-great-britain-100.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:2561"
+  },
+  "Setting\\icons8-china-50.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:2570"
+  },
+  "Setting\\icons8-great-britain-50.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:768\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\mainwindow.cpp:2362\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:910"
+  },
+  "Setting\\icons8-preferences-50.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "Setting\\icons8-preferences-100.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "Setting\\icons8-theme-100.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "Setting\\icons8-theme-50.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "Start\\bottomali-1.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "下对齐.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\mainwindow.cpp:2348"
+  },
+  "Start\\bottomali.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "下对齐.png",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:768\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\mainwindow.cpp:2362\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:910"
+  },
+  "Start\\heightsame-1.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "高度相同.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\mainwindow.cpp:2354"
+  },
+  "Start\\heightsame.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "高度相同.png",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:808\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\mainwindow.cpp:2368\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:1117"
+  },
+  "Start\\horsame-1.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "水平等距.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\mainwindow.cpp:2375"
+  },
+  "Start\\horcenter-1.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "水平居中.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\mainwindow.cpp:2352"
+  },
+  "Start\\horcenter.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "水平居中.png",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:788\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\mainwindow.cpp:2366\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:1002"
+  },
+  "Start\\icons8-grid-50.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "网格.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:1447"
+  },
+  "Start\\horsame.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "水平等距.png",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:793\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\mainwindow.cpp:2381\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:1071"
+  },
+  "Start\\icons8-redo-50.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "恢复.png",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:350\n\n\\hmi-trunk\\APP\\NEW_APP_now\\host\\PrjDialog\\MacroEditor\\MacroEditor.ui:575"
+  },
+  "Start\\icons8-undo-50.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "撤销.png",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:321\n\n\\hmi-trunk\\APP\\NEW_APP_now\\host\\PrjDialog\\MacroEditor\\MacroEditor.ui:560"
+  },
+  "Start\\icons8-zoom-50.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "放大.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:1424"
+  },
+  "Start\\icons8-zoom-out-50.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "缩小.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:1489"
+  },
+  "Start\\icons8-zoom-to-actual-size-50.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "Start\\icons8-zoom-to-extents-50.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "还原.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:1401"
+  },
+  "Start\\layer-lastlayer.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "移到上一层.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:1269"
+  },
+  "Start\\layer-nextlayer.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "移到下一层.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:1315"
+  },
+  "Start\\layer-lowermost.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "移到最下层.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:1338"
+  },
+  "Start\\layer-topmost.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "移到最上层.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:1292"
+  },
+  "Start\\leftali-1.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "左对齐.png",
+    "项目位置": ""
+  },
+  "Start\\rightali-1.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "右对齐.png",
+    "项目位置": ""
+  },
+  "Start\\leftali.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "左对齐.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:986"
+  },
+  "Start\\rightali.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "右对齐.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:956"
+  },
+  "Start\\rotationright.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "垂直翻转.png",
+    "项目位置": ""
+  },
+  "Start\\rotationleft.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "水平翻转.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:1223"
+  },
+  "Start\\rotationdown.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "逆时针旋转.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:1200"
+  },
+  "Start\\rotationup.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "顺时针旋转.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:1177"
+  },
+  "Start\\sizesame-1.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "整理.png",
+    "项目位置": ""
+  },
+  "Start\\sizesame.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "整理.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:1140"
+  },
+  "Start\\topali.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "上对齐.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:979"
+  },
+  "Start\\topali-1.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "上对齐.png",
+    "项目位置": ""
+  },
+  "Start\\vercenter-1.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "垂直居中.png",
+    "项目位置": ""
+  },
+  "Start\\versame-1.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "垂直等距.png",
+    "项目位置": ""
+  },
+  "Start\\vercenter.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "垂直居中.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:1025"
+  },
+  "Start\\versame.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "垂直等距.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:1048"
+  },
+  "Start\\widthsame-1.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "宽度相同.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\images.qrc:251"
+  },
+  "Start\\widthsame.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "宽度相同.png",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:803\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\mainwindow.cpp:2376"
+  },
+  "Start\\z1.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "文本对齐方式\\左对齐.png",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:1029\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:689"
+  },
+  "Start\\z3.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "文本对齐方式\\中间对齐.png",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:1025\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:712"
+  },
+  "Start\\z4.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "文本对齐方式\\上居中对齐.png",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:1033\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:850"
+  },
+  "Start\\z5.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "文本对齐方式\\中下对齐.png",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:1027\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:781"
+  },
+  "Start\\z2.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "文本对齐方式\\右对齐.png",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:1031\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:735"
+  },
+  "Start\\z8.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "文本对齐方式\\左下对齐.png",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:1039\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:758"
+  },
+  "Start\\z6.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "文本对齐方式\\左上对齐.png",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:1035\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:827"
+  },
+  "Start\\z9.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "文本对齐方式\\右下对齐.png",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:1037\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:804"
+  },
+  "Start\\z7.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "文本对齐方式\\右上对齐.png",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\ActionsModule.cpp:1041\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:873"
+  },
+  "tools\\icons8-compress-100.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "Internet上载日志.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:2310"
+  },
+  "tools\\icons8-cook-book-100.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "tools\\icons8-compress-50.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "解压.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:2397"
+  },
+  "tools\\icons8-cook-book-50.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "tools\\icons8-decompress-100.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "tools\\icons8-download-100.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "下载组件.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:2281"
+  },
+  "tools\\icons8-decompress-50.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "tools\\icons8-download-50.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "下载组件.png",
+    "项目位置": ""
+  },
+  "tools\\icons8-simulation-100-2.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "在线模式.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:2208"
+  },
+  "tools\\icons8-simulation-100-3.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "离线模式.png",
+    "项目位置": ""
+  },
+  "tools\\icons8-simulation-50-2.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "离线模式.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:2185"
+  },
+  "tools\\icons8-simulation-50-3.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "在线模式.png",
+    "项目位置": ""
+  },
+  "tools\\icons8-simulation-100.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "tools\\icons8-simulation-50.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "tools\\icons8-upload-50.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "tools\\icons8-upload-100.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "上传组件.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:2339"
+  },
+  "tools\\icons8-usb-memory-stick-100.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "U盘更新.png",
+    "项目位置": "\\HMI\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:2252"
+  },
+  "tools\\icons8-usb-memory-stick-50.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": ""
+  },
+  "tools\\icons8-work-60.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "编译.png",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\MainMenuWidget.ui:2155\n\n\\hmi-trunk\\APP\\NEW_APP_now\\host\\PrjDialog\\MacroEditor\\MacroEditor.ui:500"
+  },
+  "startup.png": {
+    "预览（悬停查看原始图片）": "",
+    "新图标": "",
+    "项目位置": "\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\include\\AppConfig.h:11\n\n\\hmi-trunk\\APP\\NEW_APP_now\\appMain\\main\\src\\AppConfig.cpp:28"
+  }
+}
